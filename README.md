@@ -3,4 +3,4 @@ learn about Git/GitHub
 
 
 
-##project notes
+## Project Ntes
